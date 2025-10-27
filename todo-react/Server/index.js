@@ -80,5 +80,5 @@ app.use((req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`✅ Backend running http://localhost:${PORT}`);
+  console.log(`Backend running http://localhost:${PORT}`);
 });
